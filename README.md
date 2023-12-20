@@ -8,16 +8,19 @@ Tweetable es una emocionante simulación de Twitter que ha sido desarrollada con
 
 - **Likes y Comentarios**: Experimenta la misma emoción de Twitter al dar likes y comentar en los tweets. La interactividad es clave, y en Tweetable, hemos replicado esa experiencia a la perfección.
 
+ ![Likes y comentarios Tweeteable Image](https://i.imgur.com/Ki1hIc0.png)
+
 - **Exploración de Perfiles**: Exploración de Perfiles: Sumérgete en la red social explorando perfiles de usuarios. Descubre quiénes son, qué están tuiteando y mantente conectado con tus seguidores y seguidos.
 
+ ![Home Tweeteable Image](https://i.imgur.com/NZDEuTf.png)
+
 - **Flujo de Actividad Personalizado**: Accede a tu propio perfil para revisar y revivir tus tweets antiguos, así como aquellos en los que has sido mencionado. Tweetable pone tu actividad al alcance de tu mano.
+
+ ![Home Tweeteable Image](https://i.imgur.com/3EqtUIr.png)
  
 ## Vista previa de la aplicación
 
-  <a href="https://www.canva.com/">
-    <img src="./app/assets/Readme-Images/HomeTweet.svg" alt="Canva" width="180" height="150" >
-  </a>
-  
+ ![Home Tweeteable Image](https://i.imgur.com/wd5fPuD.png)
 
 ## Configuración Rápida
 
