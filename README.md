@@ -1,6 +1,6 @@
 # Tweetable
 
-Tweetable es una emocionante simulación de Twitter que ha sido desarrollada con el poderoso framework `Ruby on Rails` para el backend y HTML/CSS para el frontend. Esta aplicación reproduce con éxito todas las características clave de Twitter, brindando a los usuarios una experiencia auténtica en el mundo del microblogging.
+Tweetable es una emocionante simulación de Twitter (X) que ha sido desarrollada con el poderoso framework `Ruby on Rails` para el backend y HTML/CSS para el frontend. Esta aplicación reproduce con éxito todas las características clave de Twitter, brindando a los usuarios una experiencia auténtica en el mundo del microblogging.
 
 ## Vista previa de la aplicación
 
