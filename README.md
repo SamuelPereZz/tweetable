@@ -14,7 +14,10 @@ Tweetable es una emocionante simulación de Twitter que ha sido desarrollada con
  
 ## Vista previa de la aplicación
 
-![Imagen de la aplicación](./images/app-preview.png)
+  <a href="https://www.canva.com/">
+    <img src="./app/assets/Readme-Images/HomeTweet.svg" alt="Canva" width="180" height="150" >
+  </a>
+  
 
 ## Configuración Rápida
 
