@@ -1,6 +1,6 @@
 # Tweeteable
 
-Tweeteable es una simulación de Twitter (X) desarrollada con Ruby on Rails y utilizando el patrón de arquitectura de software MVC (Modelo-Vista-Controlador). Esta aplicación replica las principales funciones de Twitter, incluyendo la publicación de tweets, la posibilidad de comentar y dar "me gusta" a los tweets, y la gestión de perfiles de usuario. Además, implementé un sistema de inicio de sesión utilizando GitHub, permitiendo a los usuarios crear nuevas cuentas.
+Tweeteable es una aplicación inspirada en Twitter (X), desarrollada con el poderoso framework Ruby on Rails y siguiendo el patrón de arquitectura MVC (Modelo-Vista-Controlador). Este proyecto recrea las funciones fundamentales de Twitter, brindando a los usuarios la capacidad de compartir tweets, comentar y expresar aprecio con "me gusta". Además, ofrece una completa gestión de perfiles de usuario para una experiencia social enriquecedora.
 
 ## Vista previa de la aplicación
 
