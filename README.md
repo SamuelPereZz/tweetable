@@ -24,9 +24,9 @@ Para sumergirte en la magia de Tweetable, sigue estos sencillos pasos:
    ruby -v
    rbenv install 3.1.2
    ```      
-   Si no tienes la versión correcta, puedes instalarla utilizando rbenv:
+Si no tienes la versión correcta, puedes instalarla utilizando rbenv:
 
-  ```shell
+   ```shell
    rbenv install 3.1.2
    ```      
 
