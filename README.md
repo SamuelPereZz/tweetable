@@ -24,25 +24,25 @@ Para sumergirte en la magia de Tweetable, sigue estos sencillos pasos:
    ruby -v
    rbenv install 3.1.2
    ```      
-Si no tienes la versión correcta, puedes instalarla utilizando rbenv:
-
+   Si no tienes la versión correcta, puedes instalarla utilizando rbenv:
+   
    ```shell
    rbenv install 3.1.2
-   ```      
-
-3. **Instalar las dependencias**: Ejecuta el siguiente comando para instalar las dependencias necesarias:
+   ```
+   
+4. **Instalar las dependencias**: Ejecuta el siguiente comando para instalar las dependencias necesarias:
 
    ```shell
    bundle install
    ```
 
-4. **Inicializar la base de datos**: Prepara la base de datos para la acción:
+5. **Inicializar la base de datos**: Prepara la base de datos para la acción:
 
    ```shell
    rails db:create db:migrate db:seed
    ```
 
-5. **Iniciar el servidor**: Lanza el servidor de Tweetable y comienza tu viaje de microblogging:
+6. **Iniciar el servidor**: Lanza el servidor de Tweetable y comienza tu viaje de microblogging:
 
    ```shell
    rails s
