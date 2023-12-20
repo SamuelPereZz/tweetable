@@ -2,7 +2,11 @@
 
 Tweetable es una emocionante simulación de Twitter que ha sido desarrollada con el poderoso framework `Ruby on Rails` para el backend y HTML/CSS para el frontend. Esta aplicación reproduce con éxito todas las características clave de Twitter, brindando a los usuarios una experiencia auténtica en el mundo del microblogging.
 
-## Características Destacadas
+## Vista previa de la aplicación
+
+ ![Home Tweeteable Image](https://i.imgur.com/wd5fPuD.png)
+ 
+# Características Destacadas
 
 ### Interactividad Similar a Twitter
 
@@ -17,12 +21,8 @@ Tweetable es una emocionante simulación de Twitter que ha sido desarrollada con
 - **Flujo de Actividad Personalizado**: Accede a tu propio perfil para revisar y revivir tus tweets antiguos, así como aquellos en los que has sido mencionado. Tweetable pone tu actividad al alcance de tu mano.
 
  ![Home Tweeteable Image](https://i.imgur.com/3EqtUIr.png)
- 
-## Vista previa de la aplicación
 
- ![Home Tweeteable Image](https://i.imgur.com/wd5fPuD.png)
-
-## Configuración Rápida
+# Configuración Rápida
 
 Para sumergirte en la magia de Tweetable, sigue estos sencillos pasos:
 
